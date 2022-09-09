@@ -1,0 +1,5 @@
+"start": "node app.js" makes it so you can start the program with npm start
+"dev": "nodemon 13-.js" it's used so that once run, the program will auto rerun in case of edits
+
+to install packages globally:
+    npm install -g <packageName>
