@@ -1,0 +1,12 @@
+https://nodejs.dev/en/learn/the-nodejs-event-loop/
+https://www.youtube.com/watch?v=PNa9OMajw9w
+https://www.youtube.com/watch?v=8aGhZQkoFbQ
+
+https://course-api.com
+
+The event Loop is what allows Node.js to perform non-blocking I/O operations
+(JavaScript is Synchronus and single threaded)
+
+Callbacks are put at the end of the queue -> immediate operations are given priority
+
+Examples: https://github.com/john-smilga/node-express-course/tree/main/01-node-tutorial/1-event-loop-examples
